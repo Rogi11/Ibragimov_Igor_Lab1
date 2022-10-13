@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: no-repeat url(porsche.png);
+    background-size: 50%;
+    background-attachment: fixed;
+    background-position: center;
+    width: 75%;
+    padding-left: 12.5%;
+}
+h1 {
+    padding: 10px;
+    background-color: rgb(255, 255, 125);
+    text-align: center;
+}
+img {
+    padding-bottom: 10px;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+a {
+    padding: 10px;
+    background-color: rgb(255, 255, 125);
+}
